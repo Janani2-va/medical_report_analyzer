@@ -1,0 +1,6 @@
+pytesseract
+opencv-python
+spacy
+streamlit
+pandas
+matplotlib
