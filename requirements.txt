@@ -4,3 +4,4 @@ spacy
 streamlit
 pandas
 matplotlib
+opencv-python-headless
